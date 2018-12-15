@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Notes</string>
+    <string name="action_save_label">Save</string>
+    <string name="note_title_label">Surname:</string>
+    <string name="note_description_label">Name:</string>
+    <string name="note_title_hint">Enter</string>
+    <string name="note_description_hint">Enter</string>
+    <string name="action_delete_all_label">Delete All</string>
+</resources>

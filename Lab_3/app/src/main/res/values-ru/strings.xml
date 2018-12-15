@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Проект</string>
+    <string name="all">Текст для всех ориентаций</string>
+    <string name="portrait">Текст для портретной ориентации</string>
+    <string name="landsacape">Текст для альбомной ориентации</string>
+</resources>

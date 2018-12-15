@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".InputActivity">
+
+
+    <EditText
+        android:id="@+id/Input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text"
+        android:hint="Input text here"
+        android:textSize="20sp"
+        android:textAlignment="center"
+        />
+    <Button
+            android:id="@+id/button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Save"
+            android:background="@color/colorAccent"
+            android:textColor="#ffffff"
+            android:onClick="goBack"
+            android:layout_marginTop="10dp"
+    />
+</LinearLayout>
