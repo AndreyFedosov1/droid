@@ -1,6 +1,4 @@
 <resources>
     <string name="app_name">Project</string>
-    <string name="all">Text for all orientations</string>
-    <string name="portrait">Text for portrait mode</string>
-    <string name="landsacape">Text for landscape mode</string>
+    <string name="textName">This text bigger in landscape mode!</string>
 </resources>

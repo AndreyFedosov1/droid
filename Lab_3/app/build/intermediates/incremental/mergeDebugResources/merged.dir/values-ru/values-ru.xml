@@ -17,10 +17,8 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Открыть доступ"</string>
     <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Открыть доступ приложению \"<ns1:g id="APPLICATION_NAME">%s</ns1:g>\""</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Свернуть"</string>
-    <string name="all">Текст для всех ориентаций</string>
     <string name="app_name">Проект</string>
-    <string name="landsacape">Текст для альбомной ориентации</string>
-    <string name="portrait">Текст для портретной ориентации</string>
     <string msgid="146198913615257606" name="search_menu_title">"Поиск"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">">999"</string>
+    <string name="textName">Этот текст больше в альбомной ориентации!</string>
 </resources>
